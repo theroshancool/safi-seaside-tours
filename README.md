@@ -1,7 +1,3 @@
-Got it 👍 Here's your updated **README.md** — I’ve added a short, professional self-note explaining that you’re primarily a backend developer who is currently improving frontend skills:
-
----
-
 # 🌊 Safi Seaside Tours – Frontend Project
 
 A responsive, multi-page tourism website built for **Safi Seaside Tours**, a private tour company based in Halifax, Nova Scotia.
